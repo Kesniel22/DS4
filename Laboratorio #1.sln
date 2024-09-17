@@ -23,35 +23,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #2", "Problema #2\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratorio #4", "Laboratorio #4", "{D3EB085B-6452-451C-9191-EF8A34429C55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.1", "Laboratorio #4.1\Problema #4.1.csproj", "{ECFE18D4-8F8A-4646-8FE4-13E460DAFAFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.1", "Laboratorio #4.1\Problema #4.1.csproj", "{ECFE18D4-8F8A-4646-8FE4-13E460DAFAFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.2", "Problema #4.2\Problema #4.2.csproj", "{8A99B51B-4A8B-4177-9137-D518D536234C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.2", "Problema #4.2\Problema #4.2.csproj", "{8A99B51B-4A8B-4177-9137-D518D536234C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.3", "Problema #4.3\Problema #4.3.csproj", "{5F390395-2725-4084-88E1-D09AC3B8A957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.3", "Problema #4.3\Problema #4.3.csproj", "{5F390395-2725-4084-88E1-D09AC3B8A957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.4", "Problema #4.4\Problema #4.4.csproj", "{2289F3F1-1EEA-4DA3-9D1D-91B3DE7E5FD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.4", "Problema #4.4\Problema #4.4.csproj", "{2289F3F1-1EEA-4DA3-9D1D-91B3DE7E5FD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.5", "Problema #4.5\Problema #4.5.csproj", "{F31A0AAD-4C5A-4BCE-8224-A7B923A8EB60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.5", "Problema #4.5\Problema #4.5.csproj", "{F31A0AAD-4C5A-4BCE-8224-A7B923A8EB60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.6", "Problema #4.6\Problema #4.6.csproj", "{7AE3CC18-DBBC-44C8-8E41-C9C0D50D93EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.6", "Problema #4.6\Problema #4.6.csproj", "{7AE3CC18-DBBC-44C8-8E41-C9C0D50D93EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #4.7", "Problema #4.7\Problema #4.7.csproj", "{A4FAB12A-F99F-48FC-8D39-2C89370B3977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #4.7", "Problema #4.7\Problema #4.7.csproj", "{A4FAB12A-F99F-48FC-8D39-2C89370B3977}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratorio #5", "Laboratorio #5", "{B7FB5127-FF42-44EE-BF37-30F8185435CC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratorio #1", "Laboratorio #1", "{B09A7BF6-E5F6-476F-80F5-CB1EABB923BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #5.1", "Problema #5.1\Problema #5.1.csproj", "{4427C378-EDB6-471F-BCE6-1F486D1BF216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #5.1", "Problema #5.1\Problema #5.1.csproj", "{4427C378-EDB6-471F-BCE6-1F486D1BF216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #5.2", "Problema #5.2\Problema #5.2.csproj", "{BB9382A7-6744-473E-B1C5-6EF9445C616F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #5.2", "Problema #5.2\Problema #5.2.csproj", "{BB9382A7-6744-473E-B1C5-6EF9445C616F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #5.3", "Problema #5.3\Problema #5.3.csproj", "{4A834D30-3C4B-465A-AD49-C19E0D4C40FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #5.3", "Problema #5.3\Problema #5.3.csproj", "{4A834D30-3C4B-465A-AD49-C19E0D4C40FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #5.4", "Problema #5.4\Problema #5.4.csproj", "{EAD11610-FDBB-46CE-AF8C-CBB486289811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #5.4", "Problema #5.4\Problema #5.4.csproj", "{EAD11610-FDBB-46CE-AF8C-CBB486289811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #5.5", "Problema #5.5\Problema #5.5.csproj", "{F909BCB1-14A8-4F7F-908B-2D4D730BE0C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #5.5", "Problema #5.5\Problema #5.5.csproj", "{F909BCB1-14A8-4F7F-908B-2D4D730BE0C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema #5.6", "Problema #5.6\Problema #5.6.csproj", "{BB6C14A2-A096-4CE4-B9D6-8B46D20DE7D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problema #5.6", "Problema #5.6\Problema #5.6.csproj", "{BB6C14A2-A096-4CE4-B9D6-8B46D20DE7D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratorio #6", "Laboratorio #6", "{8C4E37C7-0795-49F9-A68E-3B446596C224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio #6.1", "Laboratorio #6.1\Laboratorio #6.1.csproj", "{9EDBF51F-DE3E-4C6D-81DD-F308EFA9C94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio #6.2", "Laboratorio #6.2\Laboratorio #6.2.csproj", "{CDF25CA3-5479-4837-9349-7ABA40B38639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio #6.3", "Laboratorio #6.3\Laboratorio #6.3.csproj", "{DAEF44FB-FB7E-4F1E-8D17-91CA25A1E77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio #6.4", "Laboratorio #6.4\Laboratorio #6.4.csproj", "{0EAF3E2F-B248-44EB-B7E9-7EDE13EE2AA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +149,22 @@ Global
 		{BB6C14A2-A096-4CE4-B9D6-8B46D20DE7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB6C14A2-A096-4CE4-B9D6-8B46D20DE7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB6C14A2-A096-4CE4-B9D6-8B46D20DE7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDBF51F-DE3E-4C6D-81DD-F308EFA9C94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDBF51F-DE3E-4C6D-81DD-F308EFA9C94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDBF51F-DE3E-4C6D-81DD-F308EFA9C94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDBF51F-DE3E-4C6D-81DD-F308EFA9C94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF25CA3-5479-4837-9349-7ABA40B38639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF25CA3-5479-4837-9349-7ABA40B38639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF25CA3-5479-4837-9349-7ABA40B38639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF25CA3-5479-4837-9349-7ABA40B38639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAEF44FB-FB7E-4F1E-8D17-91CA25A1E77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEF44FB-FB7E-4F1E-8D17-91CA25A1E77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEF44FB-FB7E-4F1E-8D17-91CA25A1E77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEF44FB-FB7E-4F1E-8D17-91CA25A1E77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAF3E2F-B248-44EB-B7E9-7EDE13EE2AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAF3E2F-B248-44EB-B7E9-7EDE13EE2AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAF3E2F-B248-44EB-B7E9-7EDE13EE2AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAF3E2F-B248-44EB-B7E9-7EDE13EE2AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -164,6 +190,10 @@ Global
 		{EAD11610-FDBB-46CE-AF8C-CBB486289811} = {B7FB5127-FF42-44EE-BF37-30F8185435CC}
 		{F909BCB1-14A8-4F7F-908B-2D4D730BE0C4} = {B7FB5127-FF42-44EE-BF37-30F8185435CC}
 		{BB6C14A2-A096-4CE4-B9D6-8B46D20DE7D3} = {B7FB5127-FF42-44EE-BF37-30F8185435CC}
+		{9EDBF51F-DE3E-4C6D-81DD-F308EFA9C94D} = {8C4E37C7-0795-49F9-A68E-3B446596C224}
+		{CDF25CA3-5479-4837-9349-7ABA40B38639} = {8C4E37C7-0795-49F9-A68E-3B446596C224}
+		{DAEF44FB-FB7E-4F1E-8D17-91CA25A1E77B} = {8C4E37C7-0795-49F9-A68E-3B446596C224}
+		{0EAF3E2F-B248-44EB-B7E9-7EDE13EE2AA5} = {8C4E37C7-0795-49F9-A68E-3B446596C224}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E154C5-E2D2-405B-892F-BF190576B544}
