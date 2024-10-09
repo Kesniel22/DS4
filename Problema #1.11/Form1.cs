@@ -16,5 +16,10 @@ namespace Problema__1._11
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lblHelloWorld.Text = "Hello World!";
+        }
     }
 }
