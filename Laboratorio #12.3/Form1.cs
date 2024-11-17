@@ -66,5 +66,10 @@ namespace Laboratorio__12._3
         {
             this.Close();
         }
+
+        private void Titulo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

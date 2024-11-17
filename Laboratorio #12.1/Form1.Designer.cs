@@ -46,7 +46,7 @@
             this.Titulo.Name = "Titulo";
             this.Titulo.Size = new System.Drawing.Size(134, 26);
             this.Titulo.TabIndex = 0;
-            this.Titulo.Text = "Laboratorio #12.1";
+            this.Titulo.Text = "Recorrido de un Auto";
             this.Titulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.Titulo.Click += new System.EventHandler(this.label1_Click);
             // 

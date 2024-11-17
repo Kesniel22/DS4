@@ -126,7 +126,7 @@
             this.Titulo.Name = "Titulo";
             this.Titulo.Size = new System.Drawing.Size(134, 26);
             this.Titulo.TabIndex = 11;
-            this.Titulo.Text = "Laboratorio #12.2";
+            this.Titulo.Text = "Promedio Notas";
             this.Titulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label1

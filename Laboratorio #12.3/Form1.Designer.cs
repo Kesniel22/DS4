@@ -141,12 +141,13 @@
             // 
             // Titulo
             // 
-            this.Titulo.Location = new System.Drawing.Point(192, 27);
+            this.Titulo.Location = new System.Drawing.Point(173, 27);
             this.Titulo.Name = "Titulo";
-            this.Titulo.Size = new System.Drawing.Size(134, 26);
+            this.Titulo.Size = new System.Drawing.Size(187, 26);
             this.Titulo.TabIndex = 23;
-            this.Titulo.Text = "Laboratorio #12.3";
+            this.Titulo.Text = "Area y Semiperimetro Triangulo";
             this.Titulo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.Titulo.Click += new System.EventHandler(this.Titulo_Click);
             // 
             // resultArea
             // 
